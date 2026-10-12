@@ -1,0 +1,21 @@
+# Dataset files
+data/
+
+# Model checkpoints and generated outputs
+checkpoints/
+outputs/
+*.pth
+*.pt
+*.ckpt
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
